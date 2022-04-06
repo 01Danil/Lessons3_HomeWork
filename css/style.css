@@ -1,0 +1,18 @@
+body {
+	color:rgb(77, 77, 158); 
+}
+
+p {
+	text-indent: 1.5em;
+}
+
+.mainHeading, .secondHeading {
+	color: #e1e1e1;
+	background-color: rgb(83, 83, 142);
+	text-align: center;
+}
+
+.articleTitle {
+	text-transform: uppercase;
+	text-align: center;	
+}
